@@ -38,7 +38,7 @@ header {
   z-index: -1;
 }
 .astronaut {
-    transform: translateZ(5px) scale(0.4);
+    transform: translateZ(-29px) scale(3);
     position: absolute;
     height: 25%;
     z-index: 9;
